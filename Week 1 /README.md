@@ -1,6 +1,7 @@
 
 # Week1 Challenge: Design a 3-Tier Architecture 🚀
-
+## Architecture Diagram for AWS
+![Architecture](https://github.com/aws-samples/aws-three-tier-web-architecture-workshop/blob/main/application-code/web-tier/src/assets/3TierArch.png)
 For this task, your objective is to design a 3-tier architecture in a cloud platform, such as AWS, Azure, or GCP, with a focus on the following key considerations:
 
 1. **High Availability**: Ensure your architecture is highly available, capable of withstanding failures, and can provide uninterrupted service.
