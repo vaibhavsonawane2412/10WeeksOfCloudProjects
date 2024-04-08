@@ -58,7 +58,7 @@ The objective of this project is to create a scalable and available three-tier w
 - Importance of automation and infrastructure as code for managing and deploying complex architectures efficiently.
 
 ## Resources
-- AWS Documentation: [https://docs.aws.amazon.com/](https://docs.aws.amazon.com/)
+- AWS Documentation: [https://docs.aws.amazon.com/](https://catalog.us-east-1.prod.workshops.aws/workshops/85cd2bb2-7f79-4e96-bdee-8078e469752a/en-US)
 - Nginx Documentation: [https://nginx.org/en/docs/](https://nginx.org/en/docs/)
 - React.js Documentation: [https://reactjs.org/docs/getting-started.html](https://reactjs.org/docs/getting-started.html)
 - Node.js Documentation: [https://nodejs.org/en/docs/](https://nodejs.org/en/docs/)
