@@ -1,3 +1,11 @@
+
+# Download Code from Github
+
+Download the code from this repository  into your local environment by running the command below. If you don't have git installed, you can just download the zip. Save it somewhere you can easily access.
+
+[GitHub Repository](git clone https://github.com/aws-samples/aws-three-tier-web-architecture-workshop.git)
+
+
 # Three-Tier Web Architecture in AWS
 
 This repository contains the code and configurations for deploying a three-tier web architecture on Amazon Web Services (AWS). The architecture consists of separate tiers for the application and web components.
