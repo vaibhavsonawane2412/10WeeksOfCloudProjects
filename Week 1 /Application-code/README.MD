@@ -30,10 +30,3 @@ The `web-tier` folder contains the configurations and code for the web tier of t
 
 ## Usage
 Ensure that both the application tier and web tier components are deployed and configured properly to enable the three-tier architecture's full functionality.
-
-## Resources
-- AWS Documentation: [https://docs.aws.amazon.com/](https://docs.aws.amazon.com/)
-- Nginx Documentation: [https://nginx.org/en/docs/](https://nginx.org/en/docs/)
-- React.js Documentation: [https://reactjs.org/docs/getting-started.html](https://reactjs.org/docs/getting-started.html)
-- Node.js Documentation: [https://nodejs.org/en/docs/](https://nodejs.org/en/docs/)
-
