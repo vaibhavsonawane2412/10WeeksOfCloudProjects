@@ -112,6 +112,27 @@ ADDITIONAL_DOMAIN_NAME  = ""
 
 Note: The above file is very important to set up the infrastructure, so make sure you fill all the variable's values carefully.
 
+
+## ✈️ Now we are ready to deploy our application on cloud ⛅
+get into project directory 
+```sh
+cd book_shop_app
+```
+
+type below command to see plan of the exection 
+```sh
+terraform plan
+```
+
+✨Finally, HIT the below command to deploy the application...
+```sh
+terraform apply 
+```
+
+type `yes`, it will prompt you for permission..
+
+**Thank you so much for reading..😅**
+
 # 🖥️ Outputs
 Let's see what Terraform created on our AWS console:
 
