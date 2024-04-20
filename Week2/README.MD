@@ -154,7 +154,7 @@ Let's see what Terraform created on our AWS console:
 - EC2 servers (Jump server)
 ![ec2](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/b5bdfcb90a6ae2a9f4a08db6a26cfb5074513298/Week2/Resources/instance.png)
 - Target group
-![TG](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/c0da5b7d5f71ccb9cd60400b254ac524fe814113/Week2/Resources/targetgroup.tf.png)
+![TG](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/d0ee9b50a1f67320c272da618b6805fa3aeb0330/Week2/Resources/targetgroup.tf.png)
 - Application load balancer
 ![ALB](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/c0da5b7d5f71ccb9cd60400b254ac524fe814113/Week2/Resources/load_balancer.tf.png)
 - RDS instance
