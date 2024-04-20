@@ -181,7 +181,7 @@ Finally, it's time to write your infrastructure. But before you jump on it, let 
 
 NOTE: You will get all the code and files on my GitHub repository, and I'll share the link with you at the END of the blog. But let me share a few things that you need to take care of while writing code in the `backend.tf` file.
 
-```hcl
+```sh
 terraform {
   backend "s3" {
     bucket = "BUCKET_NAME"
@@ -193,7 +193,7 @@ terraform {
 
 
 Create one file with the name of terraform.tfvars in the project directory.
-```hcl
+```sh
 REGION                  = ""
 PROJECT_NAME            = ""
 VPC_CIDR                = ""
@@ -207,13 +207,10 @@ DB_USERNAME             = ""
 DB_PASSWORD             = ""
 CERTIFICATE_DOMAIN_NAME = ""
 ADDITIONAL_DOMAIN_NAME  = ""
+```
 
-
-markdown
-Copy code
 # Table of contents
 
-- [Synopsis](#synopsis)
 - [List of Services](#list-of-services)
 - [Plan of Execution](#plan-of-execution)
 - [Two-tier Architecture](#two-tier-architecture)
@@ -295,7 +292,7 @@ Finally, it's time to write your infrastructure. But before you jump on it, let 
 
 NOTE: You will get all the code and files on my GitHub repository, and I'll share the link with you at the END of the blog. But let me share a few things that you need to take care of while writing code in the `backend.tf` file.
 
-```hcl
+```sh
 terraform {
   backend "s3" {
     bucket = "BUCKET_NAME"
@@ -306,7 +303,7 @@ terraform {
 }
 ```
 Create one file with the name of terraform.tfvars in the project directory.
-
+```sh
 Copy code
 REGION                  = ""
 PROJECT_NAME            = ""
@@ -321,7 +318,7 @@ DB_USERNAME             = ""
 DB_PASSWORD             = ""
 CERTIFICATE_DOMAIN_NAME = ""
 ADDITIONAL_DOMAIN_NAME  = ""
-
+```
 
 Note: The above file is very important to set up the infrastructure, so make sure you fill all the variable's values carefully.
 
