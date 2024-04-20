@@ -12,10 +12,6 @@
 - [Outputs](#outputs)
 - [Resources](#resources)
 
-## ℹ️ Synopsis
-
-Hi folks, this is Ankit Jodhani. I recently graduated from university and currently exploring and learning DevOps and cloud with AWS. I have participated in the #10WeeksOfCloudOps challenge launched by Piyush Sachdeva, and this is the 3rd challenge of the series. In this challenge, we need to implement 2-tier architecture using Terraform, which should be highly available and scalable. So to achieve that, we're going to use the following list of services of AWS. You can use any cloud provider that you like. In my case, it is AWS.
-
 ## 📃 List of Services
 
 - Amazon Certificate Manager (SSL)
