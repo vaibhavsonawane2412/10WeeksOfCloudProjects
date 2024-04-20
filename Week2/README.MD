@@ -34,7 +34,7 @@ Two-tier architecture, also known as client-server architecture, is a software d
 
 ### Architecture 
 ![Architecture](https://github.com/AnkitJodhani/3rdWeekofCloudOps/raw/main/architecture.gif)
-- Diagram credit - AnkitJodhani
+### Diagram credit - AnkitJodhani
 Let's see the architecture of today's project. We are going to follow a goal-driven approach that helps us to put in minimum effort and gain lots of results. It's very important to understand what we are going to build, and to understand, you can follow the below architecture. I request you please go through it once. It helps you a lot while building this project.
 
 ### Local Setup
