@@ -148,7 +148,7 @@ Let's see what Terraform created on our AWS console:
 - Security groups
 ![Security group](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/c0da5b7d5f71ccb9cd60400b254ac524fe814113/Week2/Resources/SG.tf.png)
 - Launch template
-![Launch template](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/c0da5b7d5f71ccb9cd60400b254ac524fe814113/Week2/Resources/Launch template.tf.png)
+![Launch template](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/a23db177961677052eab5433dc624f7ecdc59168/Week2/Resources/Launch%20template.tf.png)
 - Auto-scaling group
 ![asg](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/c0da5b7d5f71ccb9cd60400b254ac524fe814113/Week2/Resources/asg.tf.png)
 - EC2 servers (Jump server)
