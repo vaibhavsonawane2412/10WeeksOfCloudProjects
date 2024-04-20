@@ -138,6 +138,7 @@ type `yes`, it will prompt you for permission..
 Let's see what Terraform created on our AWS console:
 
 - VPC
+https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/4bd90430da4feb273be0999ce96e1bddfe5b3c46/Week2/Resources/vpc.tf.png
 - Routing table
 - NAT gateway
 - Internet gateway
