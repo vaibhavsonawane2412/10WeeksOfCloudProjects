@@ -1,6 +1,5 @@
 # Table of contents
 
-- [Synopsis](#synopsis)
 - [List of Services](#list-of-services)
 - [Plan of Execution](#plan-of-execution)
 - [Two-tier Architecture](#two-tier-architecture)
@@ -98,7 +97,6 @@ markdown
 Copy code
 # Table of contents
 
-- [Synopsis](#synopsis)
 - [List of Services](#list-of-services)
 - [Plan of Execution](#plan-of-execution)
 - [Two-tier Architecture](#two-tier-architecture)
