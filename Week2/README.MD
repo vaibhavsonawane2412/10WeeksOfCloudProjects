@@ -33,7 +33,7 @@
 Two-tier architecture, also known as client-server architecture, is a software design pattern that divides an application into two main parts or tiers: the client tier and the server tier. Each tier has specific responsibilities and interacts with each other to provide functionality to end-users.
 
 ### Architecture
-![Architecture](Week2/Resources/2tierArchitecture.gif)
+![Architecture](https://github.com/AnkitJodhani/3rdWeekofCloudOps/blob/main/architecture.gif)
 Let's see the architecture of today's project. We are going to follow a goal-driven approach that helps us to put in minimum effort and gain lots of results. It's very important to understand what we are going to build, and to understand, you can follow the below architecture. I request you please go through it once. It helps you a lot while building this project.
 
 ### Local Setup
