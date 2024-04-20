@@ -156,7 +156,7 @@ Let's see what Terraform created on our AWS console:
 - Target group
 ![TG](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/d0ee9b50a1f67320c272da618b6805fa3aeb0330/Week2/Resources/targetgroup.tf.png)
 - Application load balancer
-![ALB](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/c0da5b7d5f71ccb9cd60400b254ac524fe814113/Week2/Resources/load_balancer.tf.png)
+![ALB](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/6b140d7ba2ad5760a3c5979dd36f5c28444e86a8/Week2/Resources/load_balancer.tf.png)
 - RDS instance
 ![rds](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/c0da5b7d5f71ccb9cd60400b254ac524fe814113/Week2/Resources/rds.png)
 - Record in Route 53
