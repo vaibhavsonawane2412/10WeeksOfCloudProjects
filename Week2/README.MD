@@ -115,12 +115,12 @@ Note: The above file is very important to set up the infrastructure, so make sur
 # 🖥️ Outputs
 Let's see what Terraform created on our AWS console:
 
--VPC
--Routing table
--NAT gateway
--Internet gateway
--Security groups
--Launch template
+- VPC
+- Routing table
+- NAT gateway
+- Internet gateway
+- Security groups
+- Launch template
 -Auto-scaling group
 -EC2 servers (Jump server)
 -Target group
