@@ -140,13 +140,13 @@ Let's see what Terraform created on our AWS console:
 - VPC
 ![vpc](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/4bd90430da4feb273be0999ce96e1bddfe5b3c46/Week2/Resources/vpc.tf.png)
 - Routing table
-![Routing table](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/4bd90430da4feb273be0999ce96e1bddfe5b3c46/Week2/Resources/routing_table.tf)
+![Routing table](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/4bd90430da4feb273be0999ce96e1bddfe5b3c46/Week2/Resources/routing_table.tf.png)
 - NAT gateway
-![NAT gateway](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/4bd90430da4feb273be0999ce96e1bddfe5b3c46/Week2/Resources/nat.tf)
+![NAT gateway](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/4bd90430da4feb273be0999ce96e1bddfe5b3c46/Week2/Resources/nat.tf.png)
 - Internet gateway
-![Internet gateway](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/4bd90430da4feb273be0999ce96e1bddfe5b3c46/Week2/Resources/IG.tf)
+![Internet gateway](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/4bd90430da4feb273be0999ce96e1bddfe5b3c46/Week2/Resources/IG.tf.png)
 - Security groups
-![Security group](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/4bd90430da4feb273be0999ce96e1bddfe5b3c46/Week2/Resources/SG.tf)
+![Security group](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/c0da5b7d5f71ccb9cd60400b254ac524fe814113/Week2/Resources/SG.tf.png)
 - Launch template
 
 - Auto-scaling group
