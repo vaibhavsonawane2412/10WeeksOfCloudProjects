@@ -160,5 +160,5 @@ Let's see what Terraform created on our AWS console:
 - RDS instance
 ![rds](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/0c1fdf01cb73f3ff27847cb9e4a96e4b155c1d60/Week2/Resources/rds.png)
 - Record in Route 53
-![Route53](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/c0da5b7d5f71ccb9cd60400b254ac524fe814113/Week2/Resources/route53record.png)
+![Route53](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/2404ea46e667f5b1c3b5ac178df6ed70d658329c/Week2/Resources/route53record.png)
 
