@@ -140,10 +140,15 @@ Let's see what Terraform created on our AWS console:
 - VPC
 ![vpc](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/4bd90430da4feb273be0999ce96e1bddfe5b3c46/Week2/Resources/vpc.tf.png)
 - Routing table
+![Routing table](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/4bd90430da4feb273be0999ce96e1bddfe5b3c46/Week2/Resources/routing_table.tf)
 - NAT gateway
+![NAT gateway](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/4bd90430da4feb273be0999ce96e1bddfe5b3c46/Week2/Resources/nat.tf)
 - Internet gateway
+![Internet gateway](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/4bd90430da4feb273be0999ce96e1bddfe5b3c46/Week2/Resources/IG.tf)
 - Security groups
+![Security group](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/4bd90430da4feb273be0999ce96e1bddfe5b3c46/Week2/Resources/SG.tf)
 - Launch template
+
 - Auto-scaling group
 - EC2 servers (Jump server)
 - Target group
