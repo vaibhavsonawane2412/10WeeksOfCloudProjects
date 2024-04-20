@@ -158,7 +158,7 @@ Let's see what Terraform created on our AWS console:
 - Application load balancer
 ![ALB](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/6b140d7ba2ad5760a3c5979dd36f5c28444e86a8/Week2/Resources/load_balancer.tf.png)
 - RDS instance
-![rds](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/c0da5b7d5f71ccb9cd60400b254ac524fe814113/Week2/Resources/rds.png)
+![rds](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/0c1fdf01cb73f3ff27847cb9e4a96e4b155c1d60/Week2/Resources/rds.png)
 - Record in Route 53
 ![Route53](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/c0da5b7d5f71ccb9cd60400b254ac524fe814113/Week2/Resources/route53record.png)
 
