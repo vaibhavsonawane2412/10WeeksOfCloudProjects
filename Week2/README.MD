@@ -148,12 +148,17 @@ Let's see what Terraform created on our AWS console:
 - Security groups
 ![Security group](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/c0da5b7d5f71ccb9cd60400b254ac524fe814113/Week2/Resources/SG.tf.png)
 - Launch template
-
+![Launch template](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/c0da5b7d5f71ccb9cd60400b254ac524fe814113/Week2/Resources/Launch template.tf.png)
 - Auto-scaling group
+![asg](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/c0da5b7d5f71ccb9cd60400b254ac524fe814113/Week2/Resources/asg.tf.png)
 - EC2 servers (Jump server)
+![ec2](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/c0da5b7d5f71ccb9cd60400b254ac524fe814113/Week2/Resources/instance.png)
 - Target group
+![TG](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/c0da5b7d5f71ccb9cd60400b254ac524fe814113/Week2/Resources/targetgroup.tf.png)
 - Application load balancer
+![ALB](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/c0da5b7d5f71ccb9cd60400b254ac524fe814113/Week2/Resources/load_balancer.tf.png)
 - RDS instance
-- CloudFront distribution
+![rds](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/c0da5b7d5f71ccb9cd60400b254ac524fe814113/Week2/Resources/rds.png)
 - Record in Route 53
+![Route53](https://github.com/vaibhavsonawane2412/10WeeksOfCloudProjects/blob/c0da5b7d5f71ccb9cd60400b254ac524fe814113/Week2/Resources/route53record.png)
 
