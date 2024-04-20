@@ -112,7 +112,20 @@ ADDITIONAL_DOMAIN_NAME  = ""
 
 Note: The above file is very important to set up the infrastructure, so make sure you fill all the variable's values carefully.
 
-Please visit my GitHub repository for the source code. And there you will find instructions to clone the repo and run it on your local machine.
+# 🖥️ Outputs
+Let's see what Terraform created on our AWS console:
 
-GitHub link: 
+-VPC
+-Routing table
+-NAT gateway
+-Internet gateway
+-Security groups
+-Launch template
+-Auto-scaling group
+-EC2 servers (Jump server)
+-Target group
+-Application load balancer
+-RDS instance
+-CloudFront distribution
+-Record in Route 53
 
