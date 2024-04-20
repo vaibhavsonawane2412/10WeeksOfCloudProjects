@@ -117,7 +117,7 @@ Note: The above file is very important to set up the infrastructure, so make sur
 ## ✈️ Now we are ready to deploy our application on cloud ⛅
 get into project directory 
 ```sh
-cd book_shop_app
+cd root
 ```
 
 type below command to see plan of the exection 
