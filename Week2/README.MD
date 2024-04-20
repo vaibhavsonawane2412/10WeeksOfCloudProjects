@@ -121,11 +121,11 @@ Let's see what Terraform created on our AWS console:
 - Internet gateway
 - Security groups
 - Launch template
--Auto-scaling group
--EC2 servers (Jump server)
--Target group
--Application load balancer
--RDS instance
--CloudFront distribution
--Record in Route 53
+- Auto-scaling group
+- EC2 servers (Jump server)
+- Target group
+- Application load balancer
+- RDS instance
+- CloudFront distribution
+- Record in Route 53
 
