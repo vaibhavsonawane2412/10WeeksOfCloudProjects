@@ -191,7 +191,7 @@ terraform {
     region = "us-east-1"
     dynamodb_table = "dynamoDB_TABLE_NAME"
   }
-}
+}'''
 
 
 Create one file with the name of terraform.tfvars in the project directory.
